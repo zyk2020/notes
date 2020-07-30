@@ -1,15 +1,10 @@
-![logo](images/logo.png)
+![logo](https://docsify.js.org/_media/icon.svg)
 
-# PassJava-Learning
+# 小前端
 
-> PassJava 学习教程，架构、业务、技术要点全方位解析。
+> 学习笔记
 
-PassJava 是一款帮助 Java 面试的开源系统，
-可以用零碎时间利用小程序查看常见面试题，夯实 Java 基础。
-采用流行的技术，如 SpringBoot、MyBatis、Redis、 MySql、
-MongoDB、 RabbitMQ、Elasticsearch，采用 Docker 容器化部署。
-
-[GitHub](https://github.com/jackson0714/PassJava-Learning)
+[GitHub](https://github.com/zyk2020/notes)
 [Get Started](README.md)
 
 <!-- 背景图片 -->
